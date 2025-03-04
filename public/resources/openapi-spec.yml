@@ -13,20 +13,18 @@ info:
   version: 1.0.0
   license:
     name: 'License: MIT'
-    url: https://github.com/Lissy93/web-check/blob/master/LICENSE
-  termsOfService: https://web-check.xyz/about#terms-info
+    url: https://IPForce.org
+  termsOfService: https://IPForce.org/about#terms-info
 externalDocs:
-  description: 'Source: GitHub'
-  url: https://github.com/Lissy93/web-check
+  description: Source:
+  url: https://IPForce.org
 servers:
   - url: http://localhost:3001/api
     description: Local (Development)
   - url: http://localhost:3000/api
     description: Local (Production)
   - url: https://web-check.xyz/api
-    description: Public Demo (Vercel)
-  - url: https://web-check.as93.net/api
-    description: Public Demo (Netlify)
+
 tags:
   - name: Quality & Info
     description: Endpoints providing quality metrics, and general website information.
