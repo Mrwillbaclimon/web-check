@@ -3,6 +3,12 @@ services:
   web-check:
     container_name: Web-Check
     image: lissy93/web-check
+    security_opt:
+      - no-new-privileges:true
+    restart: on-failure:5
     ports:
-      - 3000:3000
-    restart: unless-stopped
+      - 7070:3000 
+
+
+
+
