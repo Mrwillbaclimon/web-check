@@ -9,6 +9,8 @@ services:
     restart: on-failure:5
     ports:
       - 7070:3000
+    env_file:
+      - stack.env
 
 
  
