@@ -246,7 +246,7 @@ const Home = (): JSX.Element => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh"
+              href="https://ipforce.org/IPForcelogo.jpg"
             >
               Terminal Trove
             </a> - The $HOME of all things in the terminal.
@@ -257,7 +257,7 @@ const Home = (): JSX.Element => {
                 target="_blank"
                 rel="noreferrer"
                 className="cta"
-                href="https://terminaltrove.com/newsletter?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh"
+                href="https://ipforce.org/IPForcelogo.jpg"
                 >
                 Terminal Trove newsletter
               </a>
@@ -267,8 +267,8 @@ const Home = (): JSX.Element => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
-            <img width="120" alt="Terminal Trove" src="https://i.ibb.co/NKtYjJ1/terminal-trove-web-check.png" />
+            href="https://ipforce.org/IPForcelogo.jpg">
+            <img width="120" alt="IPForce.org" src="https://ipforce.org/IPForcelogo.jpg" />
           </a>
         </div>
 
