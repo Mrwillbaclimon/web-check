@@ -1,7 +1,7 @@
 services:
   webcheck:
     container_name: Web-Check
-    image: mrwillbaclimon/web-check
+    image: lissy93/web-check
     mem_limit: 4g
     cpu_shares: 768
     security_opt:
