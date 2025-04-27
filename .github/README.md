@@ -1066,21 +1066,12 @@ Credit to the following users for contributing to Web-Check
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/eltociear">
-                    <img src="https://avatars.githubusercontent.com/u/22633385?v=4" width="80;" alt="eltociear"/>
-                    <br />
-                    <sub><b>Ikko Eltociear Ashimine</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Gertje823">
                     <img src="https://avatars.githubusercontent.com/u/36937387?v=4" width="80;" alt="Gertje823"/>
                     <br />
                     <sub><b>Gertje823</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/epreston">
                     <img src="https://avatars.githubusercontent.com/u/347224?v=4" width="80;" alt="epreston"/>
@@ -1088,6 +1079,8 @@ Credit to the following users for contributing to Web-Check
                     <sub><b>Ed Preston</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/dimitri-kandassamy">
                     <img src="https://avatars.githubusercontent.com/u/21193806?v=4" width="80;" alt="dimitri-kandassamy"/>
